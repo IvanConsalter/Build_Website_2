@@ -4,6 +4,9 @@
 
 https://www.youtube.com/watch?v=M3qBpPw77qo
 
-![CSS-Grid](https://user-images.githubusercontent.com/50461475/86363085-b6491280-bc4c-11ea-8ac2-db5f0563fc06.gif)
 
-![CSS-Grid-resp](https://user-images.githubusercontent.com/50461475/86363104-bd702080-bc4c-11ea-86b0-d7a729e6854a.gif)
+![CSS-Grid](https://user-images.githubusercontent.com/50461475/87591903-6db73d80-c6bf-11ea-9368-69fb7af9794a.gif)
+
+
+
+![CSS-Grid-resp](https://user-images.githubusercontent.com/50461475/87591925-74de4b80-c6bf-11ea-8e14-eca178928d2d.gif)
